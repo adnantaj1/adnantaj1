@@ -4,7 +4,7 @@ I'm Adnan Mahmood a Full Stack Web Developer in Phase of learning.
 
 :mailbox: Reach me out!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Islem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adnantaj1/)
+[![Linkedin Badge](https://img.shields.io/badge/-Adnan-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adnantaj1/)
 
 ### What I currently Do
 
